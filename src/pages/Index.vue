@@ -6,6 +6,7 @@
           <q-input v-model="mach" label="Enter Mach Number" suffix="[ ]" />
           <q-input v-model="gamma" label="Enter Gamma" suffix="[ ]" />
           <q-input v-model="p1" label="Enter Pressure (P1)" suffix="[MPa]" />
+          <q-input v-model="T1" label="Enter Temperature (T1)" suffix="[K]" />
 
           <q-btn
             class="q-mt-md"
