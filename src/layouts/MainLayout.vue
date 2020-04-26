@@ -6,7 +6,7 @@
           <q-avatar>
             <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg">
           </q-avatar>
-          My App
+          Compressive Flow Computational Tool
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
